@@ -1,0 +1,171 @@
+{
+  "Banner": [
+    {
+      "url": "https://res.cloudinary.com/dcutbfcnq/image/upload/v1739347165/banner1_tsbwrt.png"
+    },
+    {
+      "url": "https://res.cloudinary.com/dcutbfcnq/image/upload/v1739347165/banner2_ldloxx.png"
+    }
+  ],
+  "Category": [
+    {
+      "Id": 0,
+      "ImagePath": "https://res.cloudinary.com/dcutbfcnq/image/upload/v1739347164/cat1_bxwrhk.png",
+      "Name": "Beach"
+    },
+    {
+      "Id": 1,
+      "ImagePath": "https://res.cloudinary.com/dcutbfcnq/image/upload/v1739347164/cat2_c4gdmo.png",
+      "Name": "Camp"
+    },
+    {
+      "Id": 2,
+      "ImagePath": "https://res.cloudinary.com/dcutbfcnq/image/upload/v1739347165/cat3_rb5ccy.png",
+      "Name": "Jungle"
+    },
+    {
+      "Id": 3,
+      "ImagePath": "https://res.cloudinary.com/dcutbfcnq/image/upload/v1739347165/cat4_anoyll.png",
+      "Name": "Desert"
+    },
+    {
+      "Id": 4,
+      "ImagePath": "https://res.cloudinary.com/dcutbfcnq/image/upload/v1739347166/cat5_vkaaz6.png",
+      "Name": "Mountain"
+    }
+  ],
+  "Item": [
+    {
+      "address": "Hawaie, USA",
+      "bed": 2,
+      "dateTour": "17 June 2024",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. Ut enim ad minim  veniam, quis nostrud exercitation ullamco laboris  nisi ut aliquip ex ea commodo consequat. ",
+      "distance": "30Km",
+      "duration": "3D / 2N",
+      "pic": "https://res.cloudinary.com/dcutbfcnq/image/upload/v1739347165/item_4_v9bnd5.jpg",
+      "price": 900,
+      "score": 4.5,
+      "timeTour": "8:00 PM",
+      "title": "Band Island Beach",
+      "tourGuideName": "Edward Cloney",
+      "tourGuidePhone": "001123456789",
+      "tourGuidePic": "https://firebasestorage.googleapis.com/v0/b/project189-ede2a.appspot.com/o/profile.png?alt=media&token=fe709454-312a-4cf0-bb72-aa74037a700e"
+    },
+    {
+      "address": "Lombok,Indonesia",
+      "bed": 1,
+      "dateTour": "18 June 2024",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. Ut enim ad minim  veniam, quis nostrud exercitation ullamco laboris  nisi ut aliquip ex ea commodo consequat. ",
+      "distance": "20Km",
+      "duration": "3D / 2N",
+      "pic": "https://res.cloudinary.com/dcutbfcnq/image/upload/v1739347166/item_3_aueeoz.jpg",
+      "price": 800,
+      "score": 4.6,
+      "timeTour": "4:00 PM",
+      "title": "Komodo Island",
+      "tourGuideName": "Edward Cloney",
+      "tourGuidePhone": "001123456789",
+      "tourGuidePic": "https://firebasestorage.googleapis.com/v0/b/project189-ede2a.appspot.com/o/profile.png?alt=media&token=fe709454-312a-4cf0-bb72-aa74037a700e"
+    },
+    {
+      "address": "LosAngles, USA",
+      "bed": 2,
+      "dateTour": "20 July 2024",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. Ut enim ad minim  veniam, quis nostrud exercitation ullamco laboris  nisi ut aliquip ex ea commodo consequat. ",
+      "distance": "90Km",
+      "duration": "2D / 1N",
+      "pic": "https://res.cloudinary.com/dcutbfcnq/image/upload/v1739347166/item_2_c3sylu.jpg",
+      "price": 750,
+      "score": 4.9,
+      "timeTour": "2:00 PM",
+      "title": "Kelingking Beach",
+      "tourGuideName": "Edward Cloney",
+      "tourGuidePhone": "001123456789",
+      "tourGuidePic": "https://firebasestorage.googleapis.com/v0/b/project189-ede2a.appspot.com/o/profile.png?alt=media&token=fe709454-312a-4cf0-bb72-aa74037a700e"
+    },
+    {
+      "address": "Bali, Indonesia",
+      "bed": 3,
+      "dateTour": "10 July 2024",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. Ut enim ad minim  veniam, quis nostrud exercitation ullamco laboris  nisi ut aliquip ex ea commodo consequat. ",
+      "distance": "200Km",
+      "duration": "1D / 1N",
+      "pic": "https://res.cloudinary.com/dcutbfcnq/image/upload/v1739347165/item_5_moaqol.jpg",
+      "price": 600,
+      "score": 4.1,
+      "timeTour": "11:00 PM",
+      "title": "Nusa Penida",
+      "tourGuideName": "Edward Cloney",
+      "tourGuidePhone": "001123456789",
+      "tourGuidePic": "https://firebasestorage.googleapis.com/v0/b/project189-ede2a.appspot.com/o/profile.png?alt=media&token=fe709454-312a-4cf0-bb72-aa74037a700e"
+    }
+  ],
+  "Location": [
+    {
+      "Id": 0,
+      "loc": "LA california"
+    },
+    {
+      "Id": 1,
+      "loc": "NY manhattan"
+    },
+    {
+      "Id": 2,
+      "loc": "Bali, Indonesia"
+    },
+    {
+      "Id": 3,
+      "loc": "Lombok,Indonesia"
+    }
+  ],
+  "Popular": [
+    {
+      "address": "Bali, Indonesia",
+      "bed": 3,
+      "dateTour": "10 July 2024",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. Ut enim ad minim  veniam, quis nostrud exercitation ullamco laboris  nisi ut aliquip ex ea commodo consequat. ",
+      "distance": "200Km",
+      "duration": "1D / 1N",
+      "pic": "https://res.cloudinary.com/dcutbfcnq/image/upload/v1739347165/item_5_moaqol.jpg",
+      "price": 600,
+      "score": 4.1,
+      "timeTour": "11:00 PM",
+      "title": "Nusa Penida",
+      "tourGuideName": "Edward Cloney",
+      "tourGuidePhone": "001123456789",
+      "tourGuidePic": "https://firebasestorage.googleapis.com/v0/b/project189-ede2a.appspot.com/o/profile.png?alt=media&token=fe709454-312a-4cf0-bb72-aa74037a700e"
+    },
+    {
+      "address": "LosAngles, USA",
+      "bed": 2,
+      "dateTour": "20 July 2024",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. Ut enim ad minim  veniam, quis nostrud exercitation ullamco laboris  nisi ut aliquip ex ea commodo consequat. ",
+      "distance": "90Km",
+      "duration": "2D / 1N",
+      "pic": "https://res.cloudinary.com/dcutbfcnq/image/upload/v1739347166/item_2_c3sylu.jpg",
+      "price": 750,
+      "score": 4.9,
+      "timeTour": "2:00 PM",
+      "title": "Kelingking Beach",
+      "tourGuideName": "Edward Cloney",
+      "tourGuidePhone": "001123456789",
+      "tourGuidePic": "https://firebasestorage.googleapis.com/v0/b/project189-ede2a.appspot.com/o/profile.png?alt=media&token=fe709454-312a-4cf0-bb72-aa74037a700e"
+    },
+    {
+      "address": "Hawaie, USA",
+      "bed": 2,
+      "dateTour": "17 June 2024",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing  elit,sed do eiusmod tempor incididunt ut labore et  dolore magna aliqua. Ut enim ad minim veniam, quis  nostrud exercitation ullamco laboris nisi ut aliquip  ex ea commodo consequat. Ut enim ad minim  veniam, quis nostrud exercitation ullamco laboris  nisi ut aliquip ex ea commodo consequat. ",
+      "distance": "30Km",
+      "duration": "3D / 2N",
+      "pic": "https://res.cloudinary.com/dcutbfcnq/image/upload/v1739347165/item_4_v9bnd5.jpg",
+      "price": 900,
+      "score": 4.5,
+      "timeTour": "8:00 PM",
+      "title": "Band Island Beach",
+      "tourGuideName": "Edward Cloney",
+      "tourGuidePhone": "001123456789",
+      "tourGuidePic": "https://firebasestorage.googleapis.com/v0/b/project189-ede2a.appspot.com/o/profile.png?alt=media&token=fe709454-312a-4cf0-bb72-aa74037a700e"
+    }
+  ]
+}
