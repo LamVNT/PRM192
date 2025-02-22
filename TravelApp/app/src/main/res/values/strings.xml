@@ -3,4 +3,11 @@
     <string name="introTitle">Explorer the <font color='#3F95EC'>\n World</font> with us</string>
     <string name="subIntro">Lorem ipsum dolor sit amet,consectetur\n
  adipiscing  elit,sed do eiusmod tempor.</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_register">Click to register</string>
+    <string name="logout">Logout</string>
 </resources>
